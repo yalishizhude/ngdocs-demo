@@ -1,0 +1,27 @@
+{
+  "name": "ngdocs-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yalishizhude/ngdocs-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yalishizhude/ngdocs-demo/issues"
+  },
+  "homepage": "https://github.com/yalishizhude/ngdocs-demo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-ngdocs": "^0.3.0",
+    "open": "^0.0.5",
+    "run-sequence": "^1.2.2"
+  }
+}
